@@ -1,4 +1,0 @@
-Deteccion de carros:
-Hay modelos ya entrenados:
-https://github.com/MarvinTeichmann/KittiBox
-	Tiene una demo que toma un png como input y regresa predictions
